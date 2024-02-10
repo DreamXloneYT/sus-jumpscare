@@ -1,13 +1,13 @@
-# Robtop Jumpscare
+# Sus Jumpscare
 
-Get jumpscared **every time you jump** by the Robert Topala!
+Get jumpscared **every time you jump** by the Sus Anime!
 
-![robert](resources/RobertTopala.png)
+![anime](resources/susanime.png)
 
 ## Features:
-- Robtop might now appear with a 1% chance while youre playing! Check the mod settings to activate it
+- Jumpscare might now appear with a 1% chance while youre playing! Check the mod settings to activate it
 
-- Scary!
+- Makes you feel good😏!
 - Android support!
 - Works in my machine!
 
