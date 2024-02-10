@@ -6,7 +6,7 @@ set(CMAKE_C_FLAGS -m32)
 set(CMAKE_CXX_FLAGS -m32)
 set(CMAKE_CXX_VISIBILITY_PRESET hidden)
 
-project(robtop-jumpscare VERSION 1.0.0)
+project(sus-jumpscare VERSION 1.0.0)
 
 # Set up the mod binary
 add_library(${PROJECT_NAME} SHARED
