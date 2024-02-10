@@ -75,7 +75,7 @@ class $modify(PlayerObject) {
 
     // Create robert if it doesn't exist in scene
     if (!runningScene->getChildByID("robert-topala")) {
-      RobertTopala = CCSprite::create("RobertTopala.png"_spr);
+      RobertTopala = CCSprite::create("susanime.png"_spr);
       RobertTopala->setID("robert-topala");
       CCSize winSize = CCDirector::get()->getWinSize();
       
