@@ -1,9 +1,9 @@
 {
 	"geode": "2.0.0",
 	"version": "v1.2.2",
-	"id": "n.robtop-jumpscare",
-	"name": "Robtop Jumpscare",
-	"developer": "n",
+	"id": "yuri.sus-jumpscare",
+	"name": "Sus Jumpscare",
+	"developer": "Yuri",
 	"gd": {
 		"android": "2.205",
         "win": "2.204"
@@ -18,10 +18,10 @@
 	},
 	"settings": {
 		"randomize-jumpscare": {
-			"name": "Randomize Jumpscare",
+			"name": "Lower Jumpscare Chance",
 			"description": "Jumpscares happen with a 1% chance instead of a 100% chance when enabled.",
 			"type": "bool",
-			"default": false
+			"default": true
 		}
 	}
 }
